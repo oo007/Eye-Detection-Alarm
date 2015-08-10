@@ -1,0 +1,8 @@
+﻿Build started 10/14/2014 12:10:22 AM.
+     1>Project "C:\Users\SACHIN\Desktop\dot net\bright\bright\bright.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Platforms\ARM\PlatformToolsets\v110\Microsoft.Cpp.ARM.v110.targets(36,5): error MSB8022: Compiling Desktop applications for the ARM platform is not supported.
+     1>Done Building Project "C:\Users\SACHIN\Desktop\dot net\bright\bright\bright.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.04
